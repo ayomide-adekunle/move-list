@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <manifest xmlns:android="http://schemas.android.com/apk/res/android"
-    package="com.ayomide.themovie">
+    package="com.zeeice.themovie">
 
     <uses-permission android:name="android.permission.INTERNET" />
 
@@ -29,8 +29,8 @@
         </activity>
 
         <provider
-            android:name=".data.provider.generated.FavoriteProvider"
-            android:authorities="com.ayomide.themovie.data.FavoriteProvider"
+            android:name=".Data.Provider.generated.FavoriteProvider"
+            android:authorities="com.zeeice.themovie.Data.FavoriteProvider"
             android:exported="false" />
     </application>
 

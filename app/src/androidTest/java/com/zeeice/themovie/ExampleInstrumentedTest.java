@@ -1,4 +1,4 @@
-package com.ayomide.themovie;
+package com.zeeice.themovie;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;

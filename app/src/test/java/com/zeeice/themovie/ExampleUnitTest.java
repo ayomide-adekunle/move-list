@@ -1,4 +1,4 @@
-package com.ayomide.themovie;
+package com.zeeice.themovie;
 
 import org.junit.Test;
 
