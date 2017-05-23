@@ -29,8 +29,8 @@
         </activity>
 
         <provider
-            android:name=".Data.Provider.generated.FavoriteProvider"
-            android:authorities="com.ayomide.themovie.Data.FavoriteProvider"
+            android:name=".data.provider.generated.FavoriteProvider"
+            android:authorities="com.ayomide.themovie.data.FavoriteProvider"
             android:exported="false" />
     </application>
 

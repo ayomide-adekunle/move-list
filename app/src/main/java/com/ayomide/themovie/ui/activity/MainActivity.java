@@ -7,9 +7,9 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.View;
 
-import com.ayomide.themovie.Data.Model.Movie;
+import com.ayomide.themovie.data.model.Movie;
 import com.ayomide.themovie.R;
-import com.ayomide.themovie.Utilities.PrefUtil;
+import com.ayomide.themovie.utilities.PrefUtil;
 import com.ayomide.themovie.ui.fragment.MovieDetailsFragment;
 import com.ayomide.themovie.ui.fragment.MoviesFragment;
 

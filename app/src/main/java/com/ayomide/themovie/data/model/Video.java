@@ -1,4 +1,4 @@
-package com.ayomide.themovie.Data.Model;
+package com.ayomide.themovie.data.model;
 
 import android.os.Parcel;
 import android.os.Parcelable;

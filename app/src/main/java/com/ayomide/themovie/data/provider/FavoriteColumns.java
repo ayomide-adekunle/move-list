@@ -1,4 +1,4 @@
-package com.ayomide.themovie.Data.Provider;
+package com.ayomide.themovie.data.provider;
 
 import net.simonvt.schematic.annotation.ConflictResolutionType;
 import net.simonvt.schematic.annotation.DataType;

@@ -3,9 +3,9 @@ package com.ayomide.themovie.ui.helper;
 import android.app.Activity;
 import android.content.ContentValues;
 
-import com.ayomide.themovie.Data.Model.Movie;
-import com.ayomide.themovie.Data.Provider.FavoriteColumns;
-import com.ayomide.themovie.Data.Provider.FavoriteProvider;
+import com.ayomide.themovie.data.model.Movie;
+import com.ayomide.themovie.data.provider.FavoriteColumns;
+import com.ayomide.themovie.data.provider.FavoriteProvider;
 
 import io.reactivex.Observable;
 import io.reactivex.schedulers.Schedulers;

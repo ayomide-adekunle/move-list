@@ -1,4 +1,4 @@
-package com.ayomide.themovie.ui.Listner;
+package com.ayomide.themovie.ui.listner;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;

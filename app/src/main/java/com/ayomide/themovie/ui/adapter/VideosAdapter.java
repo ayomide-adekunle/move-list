@@ -1,4 +1,4 @@
-package com.ayomide.themovie.ui.Adapter;
+package com.ayomide.themovie.ui.adapter;
 
 import android.content.Context;
 import android.support.v7.widget.RecyclerView;
@@ -7,7 +7,7 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.ayomide.themovie.Data.Model.Video;
+import com.ayomide.themovie.data.model.Video;
 import com.ayomide.themovie.R;
 
 import java.util.List;

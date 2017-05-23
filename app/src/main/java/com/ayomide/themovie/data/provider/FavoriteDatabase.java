@@ -1,4 +1,4 @@
-package com.ayomide.themovie.Data.Provider;
+package com.ayomide.themovie.data.provider;
 
 import net.simonvt.schematic.annotation.Database;
 import net.simonvt.schematic.annotation.Table;

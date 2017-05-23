@@ -1,14 +1,14 @@
-package com.ayomide.themovie.Data.repository;
+package com.ayomide.themovie.data.repository;
 
 import android.content.Context;
 import android.database.Cursor;
 
-import com.ayomide.themovie.Api.MovieApi;
-import com.ayomide.themovie.Data.Model.Movie;
-import com.ayomide.themovie.Data.Model.Review;
-import com.ayomide.themovie.Data.Model.Video;
-import com.ayomide.themovie.Data.Provider.FavoriteColumns;
-import com.ayomide.themovie.Data.Provider.FavoriteProvider;
+import com.ayomide.themovie.api.MovieApi;
+import com.ayomide.themovie.data.model.Movie;
+import com.ayomide.themovie.data.model.Review;
+import com.ayomide.themovie.data.model.Video;
+import com.ayomide.themovie.data.provider.FavoriteColumns;
+import com.ayomide.themovie.data.provider.FavoriteProvider;
 
 import java.util.ArrayList;
 import java.util.List;

@@ -15,15 +15,15 @@ import android.view.View;
 import android.view.ViewGroup;
 import android.widget.Toast;
 
-import com.ayomide.themovie.Api.MovieApi;
-import com.ayomide.themovie.Data.Model.Movie;
-import com.ayomide.themovie.Data.repository.MoviesRepository;
+import com.ayomide.themovie.api.MovieApi;
+import com.ayomide.themovie.data.model.Movie;
+import com.ayomide.themovie.data.repository.MoviesRepository;
 import com.ayomide.themovie.R;
-import com.ayomide.themovie.Utilities.PrefUtil;
-import com.ayomide.themovie.Utilities.ServiceGenerator;
-import com.ayomide.themovie.Utilities.Sort;
-import com.ayomide.themovie.ui.Adapter.MovieListAdapter;
-import com.ayomide.themovie.ui.Listner.MyRecyclerItemClickListener;
+import com.ayomide.themovie.utilities.PrefUtil;
+import com.ayomide.themovie.utilities.ServiceGenerator;
+import com.ayomide.themovie.utilities.Sort;
+import com.ayomide.themovie.ui.adapter.MovieListAdapter;
+import com.ayomide.themovie.ui.listner.MyRecyclerItemClickListener;
 
 import java.util.ArrayList;
 import java.util.List;

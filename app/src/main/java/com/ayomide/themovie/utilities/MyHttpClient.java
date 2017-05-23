@@ -1,6 +1,6 @@
-package com.ayomide.themovie.Utilities;
+package com.ayomide.themovie.utilities;
 
-import com.ayomide.themovie.Data.Model.Movie;
+import com.ayomide.themovie.data.model.Movie;
 
 import io.reactivex.Observable;
 import retrofit2.http.GET;

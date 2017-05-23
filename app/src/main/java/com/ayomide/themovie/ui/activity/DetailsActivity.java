@@ -6,7 +6,7 @@ import android.support.v7.app.AppCompatActivity;
 import android.support.v7.widget.Toolbar;
 import android.view.MenuItem;
 
-import com.ayomide.themovie.Data.Model.Movie;
+import com.ayomide.themovie.data.model.Movie;
 import com.ayomide.themovie.R;
 import com.ayomide.themovie.ui.fragment.MovieDetailsFragment;
 

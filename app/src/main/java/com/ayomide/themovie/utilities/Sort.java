@@ -1,4 +1,4 @@
-package com.ayomide.themovie.Utilities;
+package com.ayomide.themovie.utilities;
 
 
 
